@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-05-21 at 10 12 48_e6944ae4](https://github.com/user-attachments/assets/19fc4243-6ea8-4dbf-8698-1feb7a002780)# 4-BIT-RIPPLE-COUNTER
+# 4-BIT-RIPPLE-COUNTER
 
 **AIM:**
 
